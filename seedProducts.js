@@ -12,7 +12,7 @@ const products = [
     name: "Classic White T-Shirt",
     description: "Soft cotton regular fit T-shirt for daily wear.",
     price: 499,
-    image: "/images/tshirt1.jpg",
+    image: "/images/tshirt2.jpg",
     category: "T-Shirts",
     sizes: ["S", "M", "L", "XL"],
     stock: 50
@@ -30,7 +30,7 @@ const products = [
     name: "Oversized Cotton Hoodie",
     description: "Warm oversized hoodie for winter comfort.",
     price: 1499,
-    image: "/images/hoodie1.jpg",
+    image: "/images/hoodie3.jpg",
     category: "Hoodies",
     sizes: ["M", "L", "XL"],
     stock: 30
@@ -39,7 +39,7 @@ const products = [
     name: "Basic Grey Hoodie",
     description: "Minimal style hoodie with brushed fleece fabric.",
     price: 1299,
-    image: "/images/hoodie2.jpg",
+    image: "/images/hoodie4.jpg",
     category: "Hoodies",
     sizes: ["S", "M", "L"],
     stock: 25
@@ -48,7 +48,7 @@ const products = [
     name: "Slim Fit Blue Jeans",
     description: "Stretchable denim jeans for everyday style.",
     price: 1599,
-    image: "/images/jeans1.jpg",
+    image: "/images/jeans3.jpg",
     category: "Jeans",
     sizes: ["S", "M", "L", "XL"],
     stock: 45
@@ -75,7 +75,7 @@ const products = [
     name: "Black Bodycon Dress",
     description: "Elegant bodycon dress with stretchable fabric.",
     price: 1499,
-    image: "/images/dress2.jpg",
+    image: "/images/dress5.jpg",
     category: "Dresses",
     sizes: ["S", "M"],
     stock: 20
@@ -93,7 +93,7 @@ const products = [
     name: "Denim Jacket",
     description: "Classic blue denim jacket with perfect fit.",
     price: 1999,
-    image: "/images/jacket2.jpg",
+    image: "/images/jacket5.jpg",
     category: "Jackets",
     sizes: ["S", "M", "L"],
     stock: 18
@@ -111,7 +111,7 @@ const products = [
     name: "White Formal Shirt",
     description: "Perfect white shirt suitable for office wear.",
     price: 999,
-    image: "/images/shirt2.jpg",
+    image: "/images/shirt6.jpg",
     category: "Shirts",
     sizes: ["S", "M", "L"],
     stock: 35
@@ -129,7 +129,7 @@ const products = [
     name: "Cotton Sweatpants",
     description: "Soft fleece sweatpants for daily comfort.",
     price: 999,
-    image: "/images/joggers2.jpg",
+    image: "/images/joggers4.jpg",
     category: "Pants",
     sizes: ["S", "M", "L"],
     stock: 20
@@ -138,7 +138,7 @@ const products = [
     name: "Men’s Sports Shorts",
     description: "Quick-dry shorts for gym and sports.",
     price: 599,
-    image: "/images/shorts1.jpg",
+    image: "/images/shorts3.jpg",
     category: "Shorts",
     sizes: ["M", "L", "XL"],
     stock: 35
@@ -147,7 +147,7 @@ const products = [
     name: "Women’s Cycling Shorts",
     description: "High-waist stretch shorts for comfort.",
     price: 499,
-    image: "/images/shorts2.jpg",
+    image: "/images/shorts5.jpg",
     category: "Shorts",
     sizes: ["S", "M", "L"],
     stock: 30
@@ -156,7 +156,7 @@ const products = [
     name: "Winter Sweatshirt",
     description: "Cozy sweatshirt with soft fleece lining.",
     price: 1199,
-    image: "/images/sweatshirt1.jpg",
+    image: "/images/sweatshirt3.jpg",
     category: "Sweatshirts",
     sizes: ["M", "L", "XL"],
     stock: 28
@@ -165,7 +165,7 @@ const products = [
     name: "Oversized Black Sweatshirt",
     description: "Trendy oversized drop-shoulder sweatshirt.",
     price: 1399,
-    image: "/images/sweatshirt2.jpg",
+    image: "/images/sweatshirt5.jpg",
     category: "Sweatshirts",
     sizes: ["S", "M", "L"],
     stock: 22
@@ -174,7 +174,7 @@ const products = [
     name: "Printed Kurti",
     description: "Indian ethnic wear with premium cotton fabric.",
     price: 799,
-    image: "/images/kurti1.jpg",
+    image: "/images/kurti3.jpg",
     category: "Ethnic",
     sizes: ["S", "M", "L", "XL"],
     stock: 40
@@ -183,7 +183,7 @@ const products = [
     name: "Anarkali Kurti",
     description: "Long flare Anarkali kurti for festive wear.",
     price: 1299,
-    image: "/images/kurti2.jpg",
+    image: "/images/kurti4.jpg",
     category: "Ethnic",
     sizes: ["M", "L"],
     stock: 25
@@ -192,7 +192,7 @@ const products = [
     name: "Men’s Formal Trousers",
     description: "Slim-fit trousers ideal for office wear.",
     price: 1299,
-    image: "/images/trouser1.jpg",
+    image: "/images/trouser3.jpg",
     category: "Trousers",
     sizes: ["M", "L", "XL"],
     stock: 30
@@ -219,7 +219,7 @@ const products = [
     name: "Black Sleeveless Top",
     description: "Smooth stretchable top perfect for summer.",
     price: 499,
-    image: "/images/top1.jpg",
+    image: "/images/top2.jpg",
     category: "Tops",
     sizes: ["S", "M"],
     stock: 20

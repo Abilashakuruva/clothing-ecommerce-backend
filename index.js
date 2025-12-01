@@ -29,6 +29,8 @@ mongoose.connect(process.env.MONGO_URI)
     app.use('/product',productRoutes);
     app.use('/cart',cartRoutes);
     app.use('/order',orderRoutes);
+    app.use("/images", express.static("images"));
+
 
 
 app.listen(PORT,()=>{
